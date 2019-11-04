@@ -2,6 +2,9 @@
 
 ## Star Wars Movies and Characters
 
-### This is the step by step I make this website
+## This is the step by step I make this website
 
-I use ReactJS with Material Design Lite (react-mdl) to build the website
+* I used ReactJS with Material Design Lite (react-mdl) to build the website of Starwars Movies and Characters. There are 3 type of method I use : /
+    Navigation
+    Header
+    Card List
