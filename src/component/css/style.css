@@ -1,0 +1,61 @@
+* {
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.navbar {
+    background: url(https://wallpapercave.com/wp/X0DFbDH.jpg) no-repeat center / cover;
+    position: relative;
+    height: 700px;
+    color: white;
+    width: 100%;
+}
+
+.text-nav {
+    position: absolute;
+    display: flex;
+    width: 350px;
+    margin-top: 200px;
+    margin-left: 20px;
+    font-size: 60px;
+    font-family: 'Fjalla One', sans-serif;
+    color: rgba(255, 254, 254, 0.89);
+}
+
+.btn {
+    position: absolute;
+    width: 100%;
+    z-index: 2;
+    margin-top: 650px;
+    text-align: center;
+}
+
+.btn Button {
+    width: 130px;
+}
+
+.btn-2 {
+    position: absolute;
+    width: 100%;
+    z-index: 2;
+    margin-top: 600px;
+    text-align: center;
+}
+
+.btn-2 Button {
+    width: 200px;
+}
+
+.grid-1 {
+    width: 100%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.grid-1 h3 {
+    text-align: center;
+}
+
+.grid-1 hr {
+    width: 95%;
+    margin: auto;
+}
