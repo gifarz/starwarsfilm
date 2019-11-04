@@ -15,7 +15,7 @@ class Gridding extends Component {
         return (
 
             <div className="grid-1">
-                <h3><strong>List of Films and Characters</strong></h3>
+                <h3>List of Films and Characters</h3>
                 <hr/>
                 <Grid className="grid-2">
                     <Cell col={4}><FilmSatu/></Cell>

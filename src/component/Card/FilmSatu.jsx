@@ -28,7 +28,7 @@ class CardFilm extends Component {
             <Card shadow={0} style={{width: '220px', height: '280px', margin: 'auto'}}>
                 <CardTitle expand style={{color: '#fff', background: 'url(https://i.pinimg.com/236x/98/57/99/9857994907179f175184bb3b127e8f7f--iphone-s-wallpaper-tumblr-phone-wallpapers.jpg) no-repeat center #46B6AC'}}></CardTitle>
                 <CardText>
-                    Star Wars Episode 1
+                    A New Hope
                 </CardText>
                 <CardActions border>
                         <div>
