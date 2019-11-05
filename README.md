@@ -23,12 +23,16 @@ To display kind of movies and characters I took the API from the website <https:
     }
    
 And then I put this code to display the title and characters of the starwars films in my website :
-   
+
+This for displaying the films :
+
        {items.map(item => (
          <li key={item.episode_id}>
            {item.title}
          </li>
        ))}
+
+And this for displaying the characters: 
 
        {items.map(item => (
           <li key={item.height}>
