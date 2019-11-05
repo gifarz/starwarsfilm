@@ -39,3 +39,7 @@ And this for displaying the characters:
              {item.name}
           </li>
        ))}
+       
+You can access online my starwars website to <https://starwarsfilm.netlify.com/>
+
+Thanks for the opportunity in this test.
