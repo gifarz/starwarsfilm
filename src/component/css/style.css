@@ -14,9 +14,9 @@
     position: absolute;
     display: flex;
     width: 350px;
-    margin-top: 200px;
+    margin-top: 190px;
     margin-left: 10px;
-    font-size: 60px;
+    font-size: 55px;
     font-family: 'Fjalla One', sans-serif;
     color: rgba(255, 254, 254, 0.89);
 }
@@ -25,7 +25,7 @@
     position: absolute;
     width: 100%;
     z-index: 2;
-    margin-top: 630px;
+    margin-top: 640px;
     text-align: center;
 }
 
