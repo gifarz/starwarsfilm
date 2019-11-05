@@ -21,3 +21,11 @@ To display kind of movies and characters I took the API from the website <https:
             })
         })
     }
+    
+   And then I put this code to display in my website :
+   
+       {items.map(item => (
+         <li key={item.episode_id}>
+           {item.title}
+         </li>
+       ))}
